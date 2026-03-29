@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { personal } from "@/lib/data";
+
 import { Menu, X, ArrowUpRight, Terminal } from "lucide-react";
 
 /**
